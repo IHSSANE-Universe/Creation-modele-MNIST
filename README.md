@@ -1,8 +1,8 @@
-Création d'un modèle MNIST
+#Création d'un modèle MNIST
 
 Ce projet consiste à créer un modèle de Deep Learning pour reconnaître les chiffres manuscrits avec le dataset MNIST.
 
-Technologies
+#Technologies
 
 Python
 
@@ -14,10 +14,10 @@ Matplotlib
 
 Jupyter Notebook
 
-Fichier
+#Fichier
 
 Création_modèle_MNIST.ipynb
 
-Objectif
+#Objectif
 
 Entraîner un modèle capable de reconnaître les chiffres de 0 à 9 à partir d'images manuscrites.
